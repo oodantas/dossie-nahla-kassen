@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/apresentacao_6min.html" }]
+}

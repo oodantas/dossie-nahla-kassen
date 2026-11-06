@@ -1,0 +1,19 @@
+# O repositório guarda só a versão atual: apresentação de 6 min, dossiê de consulta, roteiro, fotos e fontes usadas.
+# Todo o resto fica apenas local.
+*
+!.gitignore
+!.vercelignore
+!vercel.json
+!apresentacao_6min.html
+!dossie_nahla_disruptivo.html
+!ROTEIRO_6MIN.md
+!assets/
+!assets/fonts/
+!assets/fonts/*
+!assets/nahla-avatar.jpg
+!assets/nahla-capa.jpg
+!assets/nahla-dermatoscopio.jpg
+!assets/nahla-elegancia.jpg
+!assets/ref-luciana.png
+!assets/ref-remedy.jpg
+!assets/ref-volpe.png
